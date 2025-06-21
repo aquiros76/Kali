@@ -5,7 +5,7 @@ Install available updates.
    sudo apt update
    sudo apt upgrade -y
 Clonar repositorio
-   git clone https://github.com/r1vs3c/auto-bspwm.git
+   git clone https://github.com/r1vs3c/auto-bspwm.git o git clone https://github.com/ZLCube/AutoBspwm.git
    cd auto-bspwm
 Concede permisos de ejecución al script
    chmod +x setup.sh
